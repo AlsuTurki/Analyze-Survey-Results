@@ -19,4 +19,3 @@ The goal is that I not only can perform an analysis, but also that I can communi
 - Being comfortable posing questions that can be answered with a given dataset and then answering those question.s
 - Analyze a future dataset using Excel.
 
-The Data: https://d17h27t6h515a5.cloudfront.net/topher/2017/December/5a30463e_surveydata3/surveydata3.csv
