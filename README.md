@@ -19,3 +19,13 @@ The goal is that I not only can perform an analysis, but also that I can communi
 - Being comfortable posing questions that can be answered with a given dataset and then answering those question.s
 - Analyze a future dataset using Excel.
 
+# Files 
+The report communicating my findings
+The original data set 
+A copy of the spreadsheet workbook you used to do the analysis for my report 
+
+
+# presentation include:
+
+Four slides
+One visualization and at least one numeric summary statistic about a finding per slide. An appropriate visual might be a bar chart, histogram, scatterplot, box-plo. A 1-2 sentence explanation of each slidet
